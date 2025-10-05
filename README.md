@@ -2,19 +2,18 @@
 
 - Andrii Dyma  
 - 19 y.o.  
-- Software and App development student at Ormond College
+- Software and App Development student at Ormond College  
 
 ### Tech stack  
-`JavaScript` · `C#` · `HTML` · `CSS` · `Docker`
+`JavaScript` · `C#` · `HTML` · `CSS` · `Docker`  
 
-
-### Currently exploring
+### Currently exploring  
 `AI` · `Python`  
 
 ### Contact info  
-📫 email: 
-💼 linkedin: [andriidmy](https://linkedin.com/in/andriidm)  
-💻 github: [whereismytime](https://github.com/whereismytime)
+📫 email: [devbladerunner@gmail.com](mailto:devbladerunner@gmail.com)  
+💼 linkedin: [Andrii Dyma](https://linkedin.com/in/andriidm)  
+💻 github: [whereismytime](https://github.com/whereismytime)  
 
 ---
 
