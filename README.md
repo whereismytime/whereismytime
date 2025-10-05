@@ -6,6 +6,8 @@
 
 ### Tech stack  
 `JavaScript` · `C#` · `HTML` · `CSS` · `Docker`
+
+
 Currently exploring: `AI` · `Python`  
 
 ### Contact info  
