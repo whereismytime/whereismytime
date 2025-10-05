@@ -8,7 +8,7 @@
 `JavaScript` · `C#` · `HTML` · `CSS` · `Docker`
 
 
-###Currently exploring
+### Currently exploring
 `AI` · `Python`  
 
 ### Contact info  
