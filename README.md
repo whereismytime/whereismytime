@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Andrii Dyma  
-- 19 y.o.  
+- 20 y.o.  
 - Software and App Development student at Ormond College  
 
 ### Tech stack  
