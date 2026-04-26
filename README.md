@@ -11,8 +11,7 @@
 `AI` · `Python`  
 
 ### Contact info  
-📫 email: [devbladerunner@gmail.com](mailto:devbladerunner@gmail.com)  
-💼 linkedin: [Andrii Dyma](https://linkedin.com/in/andriidm)  
+💼 linkedin: [Andrii Dyma](https://linkedin.com/in/andriidyma)  
 💻 github: [whereismytime](https://github.com/whereismytime)  
 
 ---
