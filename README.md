@@ -1,19 +1,16 @@
-## Hi there 👋
+## Hi, I'm Andrii
 
-- Andrii Dyma  
-- 20 y.o.  
-- Software and App Development student at Ormond College  
+Software Development student at SETU (Ireland). I like building small practical things and figuring out how they work.
 
-### Tech stack  
-`JavaScript` · `C#` · `HTML` · `CSS` · `Docker`  
+### Stack
+`Java` · `JavaScript` · `C#` · `HTML` · `CSS` · `Git` · `Docker`
 
-### Currently exploring  
-`AI` · `Python`  
+### Currently
+- Studying OOP, data structures and algorithms
+- Messing around with Python and AI
+- Looking for a software engineering internship
 
-### Contact info  
-💼 linkedin: [Andrii Dyma](https://linkedin.com/in/andriidyma)  
-💻 github: [whereismytime](https://github.com/whereismytime)  
-
----
+### Links
+[LinkedIn](https://linkedin.com/in/andriidyma) · [GitHub](https://github.com/whereismytime)
 
 ![snake dark](https://raw.githubusercontent.com/whereismytime/whereismytime/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
